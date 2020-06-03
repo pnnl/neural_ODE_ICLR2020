@@ -1,0 +1,4 @@
+Run ID,Name,Source Type,Source Name,User,Status,Parameters,batchsize,cell_type,constr,epochs,exp,gpu,location,lr,n_hidden,nsteps,num_layers,run,savedir,verbosity
+5e578a657710466098ac3ee02769493c,2_0.001_ssm_white,LOCAL,system_id_nlin_con.py,tuor369,FINISHED,,-1,ssm_white,True,15000,sysid_ssm_white_256,5,mlruns,0.001,8,256,1,2_0.001_ssm_white,weights/garbage/,100
+3f85c03d7803406aad3b0d3800f392dd,1_0.001_ssm_white,LOCAL,system_id_nlin_con.py,tuor369,FINISHED,51,-1,ssm_white,True,15000,sysid_ssm_white_256,5,mlruns,0.001,8,256,1,1_0.001_ssm_white,weights/garbage/,100
+a05abc3a33ca42ebbbfdbf76d59d5602,0_0.001_ssm_white,LOCAL,system_id_nlin_con.py,tuor369,FINISHED,51,-1,ssm_white,True,15000,sysid_ssm_white_256,5,mlruns,0.001,8,256,1,0_0.001_ssm_white,weights/garbage/,100

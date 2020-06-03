@@ -1,0 +1,3 @@
+Run ID,Name,Source Type,Source Name,User,Status,Parameters,batchsize,cell_type,constr,epochs,exp,gpu,location,lr,n_hidden,nsteps,num_layers,run,savedir,verbosity,bestdev,devloss,trainloss
+4be9de841eed47ad9887407cc825e765,0_0.001_ssm_gray_con,LOCAL,system_id_nlin_con.py,tuor369,RUNNING,49,-1,ssm_gray_con,True,15000,sysid_ssm_gray_con_256,3,mlruns,0.001,8,256,1,0_0.001_ssm_gray_con,weights/garbage/,100,0.7029677033424377,0.709229588508606,0.22869113087654114
+7f7e13551b164d98b982009779b3c120,0_0.001_ssm_gray_con,LOCAL,system_id_nlin_con.py,tuor369,RUNNING,49,-1,ssm_gray_con,True,15000,sysid_ssm_gray_con_256,2,mlruns,0.001,8,256,1,0_0.001_ssm_gray_con,weights/garbage/,100,0.9151334762573242,0.9151334762573242,0.25756022334098816
